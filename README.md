@@ -1,6 +1,8 @@
 # Semester_Project
 GYASI OSEI
+
 UEB3223622
+
 Title: Simple Console Banking System
 
 Description:
